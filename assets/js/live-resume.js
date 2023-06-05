@@ -75,7 +75,7 @@ function shareWeb() {
 
 function downloadCV() {
     // Đường dẫn đến tệp CV của bạn
-    var cvURL = 'đường_dẫn_đến_tệp_CV_của_bạn';
+    var cvURL = '/assets/images/CV_SMPhuc.pdf';
 
     // Tạo một phần tử a ẩn
     var link = document.createElement('a');
